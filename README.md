@@ -112,3 +112,24 @@ sudo systemctl daemon-reload
 sudo systemctl enable fastapi.service  
 sudo systemctl start fastapi.service  
 sudo journalctl -u fastapi.service -f  
+
+![bot1.jpg](screenshots%2Fbot1.jpg)
+![bot2.jpg](screenshots%2Fbot2.jpg)
+![bot3.jpg](screenshots%2Fbot3.jpg)
+![bot4.jpg](screenshots%2Fbot4.jpg)
+![bot5.jpg](screenshots%2Fbot5.jpg)
+![bot6.jpg](screenshots%2Fbot6.jpg)
+![bot7.jpg](screenshots%2Fbot7.jpg)
+![bot8.jpg](screenshots%2Fbot8.jpg)
+![bot9.jpg](screenshots%2Fbot9.jpg)
+![bot10.jpg](screenshots%2Fbot10.jpg)
+![bot11.jpg](screenshots%2Fbot11.jpg)
+![bot12.jpg](screenshots%2Fbot12.jpg)
+![bot13.jpg](screenshots%2Fbot13.jpg)
+![pr1.jpg](screenshots%2Fpr1.jpg)
+![pr2.jpg](screenshots%2Fpr2.jpg)
+![pr3.jpg](screenshots%2Fpr3.jpg)
+![pr4.jpg](screenshots%2Fpr4.jpg)
+![pr5.jpg](screenshots%2Fpr5.jpg)
+![pr6.jpg](screenshots%2Fpr6.jpg)
+![pr7.jpg](screenshots%2Fpr7.jpg)
